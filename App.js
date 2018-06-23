@@ -137,7 +137,7 @@ export default class App extends React.Component {
               {this.state.dataSource.title}
           </Text>
           <Text style={styles.title}>
-              Comment a été ce film? dede
+              Comment a été ce film?
           </Text>
 
           <TextInput
